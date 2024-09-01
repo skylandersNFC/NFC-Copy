@@ -4,6 +4,10 @@ This is a Chinece software that works with the **NS106** NFC Writer
 
 ![NS106](https://i.ibb.co/Xt2tnmr/NFCWSCM.jpg)
 
-![nfcPro 2023](https://raw.githubusercontent.com/skylandersNFC/NFC-Copy/main/images/nfcPro_wbw_2023.jpeg)
+**DOWNLOAD: [NFC-Copy](https://github.com/skylandersNFC/NFC-Copy/releases/tag/2023.03.14)**
+
+## **[Tutorial] Write Skylanders on UID Re-Writable and UID Locked Cards:**
+
+[![NS106 - Write Skylanders on UID Re-Writable and UID Locked Cards](https://raw.githubusercontent.com/skylandersNFC/NFC-Copy/main/images/NS106_UID_ReWritable_and_Locked_Cards.jpg)](https://skylandersnfc.github.io/NFC-Copy)
 
 Original Source: [https://www.rfcardwriter.com/writer/soft/down_enus.html](https://www.rfcardwriter.com/writer/soft/down_enus.html)
