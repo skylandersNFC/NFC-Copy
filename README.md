@@ -2,7 +2,7 @@
 
 This is a Chinece software that works with the **NS106** NFC Writer
 
-![NS106](https://i.ibb.co/Xt2tnmr/NFCWSCM.jpg)
+![NS106](https://raw.githubusercontent.com/skylandersNFC/Docs/main/Skylanders_Buying_List/Skylanders_NFC_Devices/images/NS106.jpg)
 
 **DOWNLOAD: [NFC-Copy](https://github.com/skylandersNFC/NFC-Copy/releases/tag/2023.03.14)**
 
