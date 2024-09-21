@@ -2,7 +2,7 @@
 
 ### **DOWNLOAD: [NFC-Copy](https://github.com/skylandersNFC/NFC-Copy/releases/tag/2023.03.14)**
 
-### Works with NAS106 NFC Devices.
+### Works with [NS106](https://skylandersnfc.github.io/Docs/Skylanders_Buying_List/Skylanders_NFC_Devices/NS106/) NFC Devices.
 
 ## **[Tutorial] Write Skylanders on UID Re-Writable and UID Locked Cards:**
 
